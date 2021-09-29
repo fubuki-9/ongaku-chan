@@ -1,4 +1,7 @@
-# ongaku-chan
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1DF7C5&size=27&lines=Ongaku-Chan)](https://git.io/typing-svg)
+
+
+
 Ongaku-Chan offers (non-exhaustive list):
 
 
